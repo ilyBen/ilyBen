@@ -1,16 +1,14 @@
-### Hi there 👋
+[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hey👋&fontSize=90)](https://github.com/ilyBen)<br>
 
-<!--
-**ilyBen/ilyBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Overview
+Hey, I'm Ben. 
 
-Here are some ideas to get you started:
+You can message me at Benn#2960 on Discord.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github Status](https://github-readme-stats.vercel.app/api?username=ilyBen&show_icons=true&theme=tokyonight)
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyBen&theme=tokyonight)<br/>
+
+-----
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilyBen" alt="ilyBen" /> </p>
