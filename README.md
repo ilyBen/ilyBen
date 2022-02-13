@@ -4,6 +4,7 @@
 Hey, I'm Ben. 
 
 You can message me at Benn#2960 on Discord.
+You can email me at benn@ilybenn.xyz
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=ilyBen&show_icons=true&theme=tokyonight)
 ### Top Languages
